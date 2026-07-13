@@ -1,9 +1,11 @@
 # MESADEnv — HistoGym-style RL Environment for MESAD
 
-Adapts [HistoGym](https://github.com/XjtuAI/HistoGym)'s spatial-navigation
-paradigm to work with the **MESAD** dataset (JPG image patches + TSV
-annotations) instead of whole-slide images.
-
+## To download the dataset and model follow this link
+### Dataset
+https://saras-mesad.grand-challenge.org/dataset/
+### Model
+https://drive.google.com/file/d/16fWu0P4yFvfWp37b2Brbehn1OyA0NaX0/view?usp=sharing
+  
 ---
 
 ## How it works
