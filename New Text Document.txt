@@ -1,0 +1,1 @@
+python predict.py --model_path dqn_biopsy_model --image_dir mesad-real\val\images --annot_dir mesad-real\val\annotations
