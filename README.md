@@ -155,6 +155,13 @@ python evaluate_mesad.py \
     --val_annots  ../mesad-real/val/annotations \
     --n_episodes  200
 ```
+### 4-Visualize
+```bash
+python visualize.py \
+    --model_path  models/dqn_mesad \
+    --val_images  ../mesad-real/val/images \
+    --val_annots  ../mesad-real/val/annotations \
+```
 
 Output:
 ```
